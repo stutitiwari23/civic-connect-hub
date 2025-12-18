@@ -19,7 +19,7 @@ const RecentIssuesSection = () => {
               Stay updated with the latest civic issues reported by citizens
             </p>
           </div>
-          <Button asChild variant="outline">
+          <Button asChild variant="default">
             <Link to="/issues">
               View All Issues
               <ArrowRight className="ml-2 h-4 w-4" />
