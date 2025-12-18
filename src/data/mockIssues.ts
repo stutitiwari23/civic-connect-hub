@@ -24,6 +24,7 @@ export const mockIssues: Issue[] = [
     category: 'streetlight',
     status: 'reported',
     location: '45 Elm Avenue, Westside',
+    imageUrl: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400',
     reportedBy: 'Sarah Johnson',
     reportedAt: new Date('2024-01-14'),
     updatedAt: new Date('2024-01-14'),
